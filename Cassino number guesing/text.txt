@@ -1,0 +1,8 @@
+Choose a number between 1 and 10.
+If your guess number is matched with the actual number behind screen you will win.
+If you lose your bidding amount will lost.
+
+
+
+
+developed by ------;

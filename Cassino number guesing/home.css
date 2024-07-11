@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background: linear-gradient(135deg, #ec2731, #70948b);
+    background-repeat: no-repeat;
+   
+}
+.home-page{
+    width: 90%;
+    max-width: 970px;
+    background: linear-gradient(135deg, #838a8f, #832f4b);
+    color: #fff;
+    margin: 30px auto 0;
+    border-radius: 20px;
+    padding: 40px 35px;
+    text-align: center;
+    height: auto;
+    margin-bottom: 191px;
+}
+.logo{
+    width:120px;
+    padding-top: 10px;
+    
+}
+.margarine-regular {
+    font-family: "Margarine", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+  }
+.we-name{
+    padding-left: 30px;
+    margin-top: -10px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    font-size: xx-large;
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+}
+.menu{
+
+        display: grid;
+        grid-template-columns: 1fr 1fr; 
+        grid-template-rows: 1fr 1fr; 
+        gap: 10px; 
+        height: 300px;
+      
+}
+.g-div{
+   align-items: center;
+   padding-top: 50px;
+}
+.btn{
+    padding: 20px 20px;
+    width: 250px;
+    font-family: "Margarine", sans-serif;
+    font-size:15px ;
+    border-radius: 40px;
+  }
+  .btn:hover{
+    background-color:rgb(185, 181, 181);
+    color:white;
+  }
+  .btn a{
+    color:black;
+    text-decoration: none;
+  }
